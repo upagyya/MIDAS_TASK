@@ -12,4 +12,14 @@
 
 **DATASET LINK**
 
-[DATASET](https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing)
+[DATASET ](https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing)
+
+
+
+**LIBRARIES REQUIREMENTS**
+- Keras and Tensorflow for building deep neural networks
+- Pandas for data manipulation
+- Numpy for mathematical operations
+- sklearn for getting different metrics of a trained model
+- seaborn and matplotlib for plotting
+
